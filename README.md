@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Abdul%20Jalil&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Backend%20%E2%80%A2%20M.Sc.%20AI%20%40%20BTU&descAlignY=58&descSize=18" alt="Abdul Jalil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Abdul%20Jalil&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26amp%3B%20Backend%20%E2%80%A2%20M.Sc.%20AI%20%40%20BTU&descAlignY=58&descSize=18" alt="Abdul Jalil" />
 </p>
 
 <p align="center">
